@@ -1,0 +1,67 @@
+/* ==========================================================================
+   About Gallery
+   ========================================================================== */
+
+.features-thumb {
+
+	margin-bottom: 10px;
+	border-bottom-right-radius: 60px;
+	border-right: 1px solid $brand-main-color;
+	border-bottom: 1px solid $brand-main-color;
+	@include transition(all, $transitions-delay, ease);
+
+	.thumb-header {
+
+		width: 100%;
+		border-top-left-radius: 60px;
+		padding: 5px 0 5px 0;
+		@include transition(all, $transitions-delay, ease);
+
+		background-color: $brand-main-color;
+
+		h3 {
+			color: $brand-secondary-color;
+		}
+
+	}
+
+	.thumb-content {
+
+		padding: 15px 15px;
+		border-left: 1px solid $brand-main-color;
+		border-bottom-right-radius: 60px;
+		@include transition(all, $transitions-delay, ease);
+
+		i.fa {
+			@include transition(all, $transitions-delay, ease);
+		}
+
+		p {
+			@include transition(all, $transitions-delay, ease);
+		}
+
+	}
+
+	&:hover {
+
+		.thumb-header {
+			background-color: darken($brand-main-color, 5);
+		}
+
+		.thumb-content {
+
+			background-color: $brand-main-color;
+
+			i.fa {
+				color: $brand-secondary-color;
+				@include longShadow(darken($brand-main-color, 10%), 25);
+			}
+
+			p {
+				color: $brand-secondary-color;
+			}
+
+		}
+	}
+
+}
