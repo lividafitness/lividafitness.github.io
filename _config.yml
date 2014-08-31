@@ -44,7 +44,7 @@ navbar_links:
 
 # Navigation Background Color. 
 # Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
-navbar_color: "caribbean-green"
+navbar_color: "golden-poppy"
 
 # Image Hero
 # -------------------------
@@ -55,29 +55,17 @@ tagline:          "a responsive bootstrap three theme for jekyll"
 # -------------------------
 
 features_thumbs:
-  - title: "Clean Code"
+  - title: "Accountability"
     icon: "code"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Build with Jekyll"
+  - title: "Knowledge"
     icon: "flask"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Unique Design"
+  - title: "Motivation"
     icon: "file-image-o"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Responsive"
+  - title: "Results"
     icon: "mobile"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Easy Color Change"
-    icon: "bolt"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "439 Icons"
-    icon: "flag"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Google Maps"
-    icon: "map-marker"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Fullscreen Background"
-    icon: "expand"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
 
 # Blockquote
@@ -93,13 +81,13 @@ blockquote:
 # -------------------------
 
 services:
- - title: "Front-End Development"
+ - title: "Saturday Mornings"
    icon: "desktop"
    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
- - title: "iOS Development"
+ - title: "Mothers 9:30am"
    icon: "apple"
    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
- - title: "UI/UX Design"
+ - title: "Evenings"
    icon: "magic"
    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."      
 
@@ -144,12 +132,12 @@ work_thumbs:
 # -------------------------
 
 contact:
-   latitude: "37.3321722"
-   longitude: "-122.0305748"
-   marker_title: "Apple Incorporated."
-   marker_address: "1 Infinite Loop Cupertino, CA 95014"
-   phone_number: "(321) 402-1098"
-   email_address: "hello@kunstnerisk.com"
+   latitude: "-33.852131"
+   longitude: "151.155762"
+   marker_title: "Livida Fitness"
+   marker_address: "LEVEL 1, 160 VICTORIA ROAD DRUMMOYNE NSW 2047"
+   phone_number: "0481 520 740"
+   email_address: "danielle@lividafitness.com.au"
 
 # Configuration
 # -------------------------
