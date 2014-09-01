@@ -46,27 +46,6 @@ navbar_links:
 # Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
 navbar_color: "golden-poppy"
 
-# Image Hero
-# -------------------------
-
-tagline:          "a responsive bootstrap three theme for jekyll"
-
-# Features Thumbs
-# -------------------------
-
-features_thumbs:
-  - title: "Accountability"
-    icon: "code"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Knowledge"
-    icon: "flask"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Motivation"
-    icon: "file-image-o"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Results"
-    icon: "mobile"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
 
 # Blockquote
 # -------------------------
