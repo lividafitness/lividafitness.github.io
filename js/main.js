@@ -49,7 +49,7 @@ $(window).load(function() {
 $(document).ready(function() {
 
 	// Main variables
-	windowHeight 		      = $(window).height();
+	windowHeight 		      = $(window).height()-30;
     windowWidth 		      = $(window).width();
 
     // Video hero height
