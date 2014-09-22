@@ -103,11 +103,17 @@ body {
 
 	h1 {
 
-		font-size: 70px;
-		font-family: $brand-secondary-font;
-		text-transform: uppercase;
-		letter-spacing: 10px
+		font-size: 60px;
+		font-family: $livida-font;
+		letter-spacing: 10px;
+		color: $livida-blue;
 
+	}
+	h2 {
+		font-size: 30px;
+		font-family: $brand-main-font;
+		letter-spacing: 10px;
+		color: $livida-yellow;
 	}
 
 	h4 {
@@ -117,7 +123,9 @@ body {
 		letter-spacing: 2px;
 
 	}
-
+	background-color: $livida-black;
+	padding: 0px 20px 10px 20px;
+	border-radius: 10px;
 }
 
 // Horizontal Ruler

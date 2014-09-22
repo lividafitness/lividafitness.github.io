@@ -12,12 +12,14 @@ $golden-poppy		    : #F4C700;
 $deep-carmine-pink      : #F62B33;
 $light-blue				: #CCE3E3;
 $livida-blue			: #94CEFE;
+$livida-black			: #2a2a2a;
+$livida-yellow			: #FFFF65;
 
 $anti-flash-white       : #F3F3F3;
 $snow 					: #FCFCFC;
 $brand-white 		    : #FFFFFF;
 
-$brand-main-color 	    : #2a2a2a;
+$brand-main-color 	    : $livida-black;
 $brand-secondary-color  : $livida-blue;
 
 // Fonts
@@ -25,6 +27,7 @@ $brand-secondary-color  : $livida-blue;
 
 $lato-font 			    : 'Lato', sans-serif;
 $varela-font 		    : 'Varela Round', sans-serif;
+$livida-font			: 'Permanent Marker', cursive;
 
 $brand-main-font 	    : $lato-font;
 $brand-secondary-font   : $varela-font;

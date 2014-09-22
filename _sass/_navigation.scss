@@ -24,7 +24,7 @@
 				@include transition(all, ($transitions-delay / 2), ease);
 
 				&:hover {
-					color: darken($brand-secondary-color, 50) !important;
+					color: lighten($brand-secondary-color, 50) !important;
 				}
 			}
 		}
