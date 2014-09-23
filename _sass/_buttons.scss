@@ -15,19 +15,21 @@
 
 .btn-default {
 
-     color: $brand-main-color;
+     color: $brand-secondary-color;
+     outline: none;
+     outline-width: 0;
+     padding: 15px 60px 15px 60px;
      border: 1px solid $brand-main-color;
-     background-color: transparent;
+     background-color: $brand-main-color;    
      @include transition(all, ($transitions-delay / 2), ease);
 
      &:hover, &:active, &:focus {
 
-          color: $brand-secondary-color;
-          outline: none;
-          outline-width: 0;
-          padding: 15px 60px 15px 60px;
+          color: $livida-yellow;
+          font-size: 1.1em;
           border: 1px solid $brand-main-color;
-          background-color: $brand-main-color;
+          background-color: $brand-main-color;    
+          padding: 16px 70px 16px 70px;
      }
 
 }

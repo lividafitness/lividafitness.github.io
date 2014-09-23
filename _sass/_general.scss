@@ -144,24 +144,27 @@ hr {
 
 // Blockquote
 // -------------------------
+.teaser {
+	background-color: rgba(42,42,42,0.95);
+	padding: 0px 20px 10px 20px;
+	border-radius: 10px;
+	h2 {
+		font-size: 30px;
+		font-family: $brand-main-font;
+		color: $livida-blue;
+	}
+	h3{
+		font-size: 25px;
+		color: $livida-yellow;	
+	}
+}
 
 .blockquote {
-
-	blockquote {
-
-		font-size: 40px;
-		font-family: 'Lato', sans-serif;
-		font-weight: 300;
-		border: 0px;
-		padding: 0 50px 0 50px;
-
-	}
 
 	h3 {
 
 		font-size: 20px;
 		font-family: $brand-secondary-font;
-		text-transform: uppercase;
 
 	}
 }
@@ -214,3 +217,11 @@ hr {
 	display: block;
 
 }
+
+// About Me section
+// -------------------------
+
+.about p {
+	font-size: 1.4em;
+}
+

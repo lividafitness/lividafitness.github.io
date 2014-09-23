@@ -21,8 +21,8 @@ name:         Livida Fitness
 # Main Logo
 # -------------------------
 
-logo_regular: "media/logo/logo_regular.png"
-logo_small_devices: "media/logo/logo_small.png"
+logo_regular: "/media/logo/logo_regular.png"
+logo_small_devices: "/media/logo/logo_small.png"
 
 
 # Main Navigation Links
@@ -51,10 +51,8 @@ navbar_color: "black"
 # -------------------------
 
 blockquote: 
-   text: "We develop online marketing solutions that help enterprises accurately identify the consumers that truly need their services."
-   tagline: "Serving the community since 2014"
-   button_text: "Read More"
-   button_url: "#_"
+   button_text: "Contact me"
+   button_url: "#contact"
 
 # Services
 # -------------------------
