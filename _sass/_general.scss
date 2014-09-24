@@ -169,8 +169,46 @@ hr {
 	}
 }
 
+// Feature
+// -------------------------
+
+.top-block {
+	letter-spacing: 1px;
+	line-height: 1.4em;
+}
+
+@media (min-width: 720px) {
+	#livida-piece {
+		margin: -50px 0px;
+	}
+}
+
+
 // Content Section
 // -------------------------
+
+.option_photo {
+	padding: 0px 40px;
+}
+
+.option_photo figure {
+  border-radius: 0px;
+  min-height: 240px;
+  background: no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-left: 0;
+}
+
+.option_details {
+	border-top: solid 1px #ccc;
+	background-color: transparent;
+	height: auto;
+	min-height: 100px;
+  	padding: 0 40px 0 20px;
+}
 
 .section-content {
 	min-height: 200px;
