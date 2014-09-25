@@ -203,11 +203,24 @@ hr {
 }
 
 .option_details {
-	border-top: solid 1px #ccc;
-	background-color: transparent;
-	height: auto;
-	min-height: 100px;
-  	padding: 0 40px 0 20px;
+	border-top: solid 2px $brand-main-color;
+	min-height: 300px;
+  	padding: 0 40px 20px 20px;
+  	.choice-heading {
+  		background: $brand-main-color;
+  		border-radius: 5px;
+  		margin: 0 50px;
+  	}
+  	h2 {
+  		color: $livida-blue;
+  	}
+  	.choice-text li, .choice-text p {
+  		font-size: 20px;
+  		font-family: $lato-font;
+  		font-weight: 300;
+  	}
+
+  	
 }
 
 .section-content {
