@@ -69,6 +69,8 @@ $(document).ready(function() {
 	// Widgets config
 	widgetsConfig();
 
+  animate();
+
 });
 
 /* ==========================================================================
@@ -178,3 +180,25 @@ function initialize() {
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
+
+/* ==========================================================================
+   Animate the healthy puzzle
+   ========================================================================== */
+function animate() {
+  $('.first').addClass("not-visible").viewportChecker({
+        classToAdd: 'visible animated bounceInLeft',
+        offset: 100
+       });
+  $('.second').addClass("not-visible").viewportChecker({
+        classToAdd: 'visible animated bounceInDown',
+        offset: 100
+       });
+  $('.third').addClass("not-visible").viewportChecker({
+        classToAdd: 'visible animated bounceInUp',
+        offset: 100
+       });
+  $('.fourth').addClass("not-visible").viewportChecker({
+        classToAdd: 'visible animated bounceInRight',
+        offset: 100
+       });
+}

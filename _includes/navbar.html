@@ -10,7 +10,7 @@
 						<span class="icon-bar"></span>
 					</button>
 
-					<a class="navbar-brand" href="{{ site.navbar_links[0].url }}">
+					<a class="navbar-brand" href="/">
 						<div class="visible-lg visible-md margin-top-10">
 							<img src="{{ site.logo_regular }}" alt="{{ site.name }} Logo">
 						</div>
@@ -23,9 +23,10 @@
 
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
-						{% for link in site.navbar_links %}
-						<li><a href="{{ link.url }}">{{ link.title }}</a></li>
-						{% endfor %}
+						<li><a href="/">Home</a></li>
+						<li><a href="/#started">Get Started</a></li>
+						<li><a href="/about">About Me</a></li>
+						<li><a href="/#contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
