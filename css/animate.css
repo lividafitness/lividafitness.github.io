@@ -556,8 +556,8 @@ Copyright (c) 2014 Daniel Eden
 .bounceIn {
   -webkit-animation-name: bounceIn;
           animation-name: bounceIn;
-  -webkit-animation-duration: .75s;
-          animation-duration: .75s;
+  -webkit-animation-duration: .95s;
+          animation-duration: .95s;
 }
 
 @-webkit-keyframes bounceInDown {

@@ -330,3 +330,12 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+// for the animate effects
+
+.not-visible{
+     opacity:0;
+}
+.visible{
+     opacity:1;
+}
