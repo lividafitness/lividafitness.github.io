@@ -58,15 +58,15 @@ blockquote:
 # -------------------------
 
 services:
- - title: "Saturday Mornings"
+ - title: "Early Mornings"
    icon: "desktop"
-   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
- - title: "Mothers 9:30am"
+   description: "Want to get your workout in before you hit the office?  Click here to find out more about my early morning bootcamp sessions in the Inner West."
+ - title: "Mums & Bubs, Students & Shift Workers"
    icon: "apple"
-   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
+   description: "I currently offer a 10am Friday bootcamp at Lysaght Park in Chiswick and welcome all fitness levels.  Get in touch now to join the current term."
  - title: "Evenings"
    icon: "magic"
-   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."      
+   description: "Are you a night owl, or only have time in the evenings to work out?  I also offer after work bootcamp sessions.  Click here to find out more."      
 
 # Work Mosaic
 # -------------------------
