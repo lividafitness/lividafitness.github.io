@@ -1,7 +1,8 @@
 # Site settings
-title:            "Livida Fitness"
+title: "Personal Training & Group Fitness in Drummoyne and surrounds"
 email: danielle@lividafitness.com.au
-description: "Livida fitness"
+description: "Livida fitness - Lose weight and get fit and healthy with one on one personal training in Drummoyne.  Find out how I can help transform your life today."
+meta_keywords: "fitness training sydney, lose weight, get fit, personal training drummoyne, personal training chiswick, morning bootcamps, mothers training" 
 baseurl: ""
 url: "http://lividafitness.com.au"
 twitter_username: jekyllrb
@@ -10,6 +11,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-sitemap
 
 
 # Custom vars
@@ -24,23 +28,6 @@ name:         Livida Fitness
 logo_regular: "/media/logo/logo_regular.png"
 logo_small_devices: "/media/logo/logo_small.png"
 
-
-# Main Navigation Links
-# -------------------------
-
-navbar_links:
-  - title: "Home"
-    url: "#image-hero"
-  - title: "Features"
-    url: "#features"
-  - title: "Services"
-    url: "#services"
-  - title: "Work"
-    url: "#work"    
-  - title: "Pricing Tables"
-    url: "#pricing-tables"
-  - title: "Contact"
-    url: "#contact"
 
 # Navigation Background Color. 
 # Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
